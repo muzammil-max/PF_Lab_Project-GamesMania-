@@ -28,7 +28,7 @@ It combines four classic games into one application with a shared menu, progress
 
 ---
 
-## ✨ Featuress
+## ✨ Features
 
 - Multiple games in one project
 - State-based game switching
