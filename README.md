@@ -1,4 +1,4 @@
-# 🎮 GamesMania
+#                             🎮 GamesMania
 
 <p align="center">
   <strong>A multi-game arcade platform built in C using Raylib</strong><br>
