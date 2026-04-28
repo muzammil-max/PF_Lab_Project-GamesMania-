@@ -77,3 +77,12 @@ GamesMania/
 │   ├── images/
 │   └── ...
 └── save.txt
+
+
+
+## Games Mania made with <3 by
+### Muzammil (25k6533)
+### Syed Muhammad Sohaib ( 25k6532)
+
+
+
