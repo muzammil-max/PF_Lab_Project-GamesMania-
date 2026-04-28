@@ -77,7 +77,7 @@ GamesMania/
 │   ├── images/
 │   └── ...
 └── save.txt
-
+```
 
 
 ## Games Mania made with <3 by
